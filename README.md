@@ -283,8 +283,8 @@ $
 
 ## Authors :black_nib:
 
- *Noluyolo Ndungane
- *Danisile Johannah
+ *Mozamane Baloyi
+ *Mduduzi Silinda
 ## License :lock:
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
