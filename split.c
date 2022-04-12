@@ -1,7 +1,7 @@
 /*
  * File: split.c
- * Auth: Noluyolo Ndungane
- *       Danisile Johannah
+ * Auth: Mozamane Baloyi
+ *       Mduduzi Silinda
  */
 
 #include "shell.h"
